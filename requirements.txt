@@ -1,0 +1,10 @@
+# Core dependencies
+google-generativeai>=0.3.0
+gradio>=4.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Optional for development
+jupyter>=1.0.0
+notebook>=6.5.0
